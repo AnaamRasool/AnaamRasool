@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaamRasool
-- 👀 I’m interested in Native Android App Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Android app development
+- 👀 I’m interested in Development
+- 🌱 I’m currently into Agentic AI
+- 💞️ I’m looking to collaborate on AI Development
 - 📫 How to reach me -- LinkedIn(_@anaamrasool)
 
 <!---
